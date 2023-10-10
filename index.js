@@ -1,5 +1,5 @@
 document.addEventListener("keydown", function (event) {
-    let keyMappings = {
+    const keyMappings = {
       "W": "b1",
       "A": "b2",
       "S": "b3",
