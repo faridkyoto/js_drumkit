@@ -1,0 +1,20 @@
+.block {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+button {
+    border-color: rgb(154, 154, 255);
+    border-radius: 5px;
+    width: 100px;
+    height: 100px;
+    color: blueviolet;
+}
